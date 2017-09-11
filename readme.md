@@ -22,4 +22,4 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 
 ### License
 
-The Laravel framework (http://www.phpfreelanceprogrammer.com/) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The Laravel framework [Freelance Laravel Developer](https://www.phpfreelanceprogrammer.com/laravelprogrammer.html) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
